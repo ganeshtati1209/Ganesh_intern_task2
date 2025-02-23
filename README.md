@@ -27,7 +27,7 @@ It is optimized to run on **MPS (Apple Silicon GPUs)** to avoid **out-of-memory 
 
 ### ✅ **1. Clone the Repository**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/ganeshtati1209/Ganesh_intern_task2.git
 cd YOUR_REPO_NAME
 ```
 
